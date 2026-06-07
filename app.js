@@ -1,1 +1,1 @@
-console.log("Hello from CI/CD Pipeline");
+console.log("Pipeline Triggered Successfully");
